@@ -1,5 +1,6 @@
 # Data Science
 
-*Códigos e conceitos que vou conhecendo ao longo da minha jornada de aprendizado em Data science.
-![Data-Science-680x380](https://github.com/martanascimento1/datascience1/assets/103062784/13400841-d9e4-4686-9742-a3ffb2c19142)
+## Códigos e conceitos que vou conhecendo ao longo da minha jornada de aprendizado em Data science.
+![17 03](https://github.com/martanascimento1/datascience1/assets/103062784/acc6e933-87c0-4f84-afd2-e42b01be27ae)
+
 
